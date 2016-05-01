@@ -25,6 +25,10 @@ export default {
     {
       id: 'alaska-user',
       alias: 'user'
+    },
+    {
+      id: 'alaska-post',
+      alias: 'post'
     }
   ],
   domain: '',
