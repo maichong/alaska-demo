@@ -1,5 +1,10 @@
 export default class Article extends service.Model {
   static label = 'Article';
+  static api = {
+    list: alaska.PUBLIC,
+    show: alaska.PUBLIC
+  };
+
   static fields = {
     title: {
       label: 'Title',
