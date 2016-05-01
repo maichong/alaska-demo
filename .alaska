@@ -1,0 +1,7 @@
+{
+  "services": {
+    "alaska-admin": true,
+    "alaska-user": true
+  },
+  "id": "alaska-demo"
+}
